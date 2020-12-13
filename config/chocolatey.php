@@ -228,7 +228,7 @@ return [
     |
     */
 
-    'motto' => "I'm an Arcturus Lover!",
+    'motto' => "I'm an Pecohotel user!",
 
     /*
     |--------------------------------------------------------------------------
@@ -252,7 +252,7 @@ return [
 
     'emulator' => [
         'address' => '0.0.0.0',
-        'port'    => 30000,
+        'port'    => 3000,
     ],
 
     /*
