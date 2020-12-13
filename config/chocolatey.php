@@ -23,8 +23,8 @@ return [
     |
     */
 
-    'hotelName' => 'Habbo',
-    'shortName' => 'Habbo',
+    'hotelName' => 'Peco Hotel',
+    'shortName' => 'Peco',
 
     /*
     |--------------------------------------------------------------------------
@@ -36,7 +36,7 @@ return [
     |
     */
 
-    'hotelUrl' => 'http://localhost',
+    'hotelUrl' => 'http://pecohotellll.herokuapp.com',
 
     /*
     |--------------------------------------------------------------------------
@@ -55,7 +55,7 @@ return [
     |
     */
 
-    'arcturus' => 'your-username',
+    'arcturus' => 'Jacky',
 
     /*
     |--------------------------------------------------------------------------
@@ -268,16 +268,16 @@ return [
     */
 
     'game' => [
-        'gordon'   => 'http://localhost/public/swf/gordon/PRODUCTION-201611291003-338511768/',
-        'flash'    => 'http://localhost/public/swf/gordon/PRODUCTION-201611291003-338511768/Habbo.swf',
+        'gordon'   => 'http://pecohotellll.herokuapp.com/public/swf/gordon/PRODUCTION-201611291003-338511768/',
+        'flash'    => 'http://pecohotellll.herokuapp.com/public/swf/gordon/PRODUCTION-201611291003-338511768/Habbo.swf',
         'gamedata' => [
-            'figuredata'        => 'http://localhost/public/swf/gamedata/figuredata.xml',
-            'furnidata'         => 'http://localhost/public/swf/gamedata/furnidata.xml/',
-            'productdata'       => 'http://localhost/public/swf/gamedata/productdata.txt',
-            'variables'         => 'http://localhost/public/swf/gamedata/external_variables.txt',
-            'texts'             => 'http://localhost/public/swf/gamedata/external_flash_texts.txt',
-            'overrideVariables' => 'http://localhost/public/swf/override/external_override_variables.txt',
-            'overrideTexts'     => 'http://localhost/public/swf/gamedata/override/external_flash_override_texts.txt',
+            'figuredata'        => 'http://pecohotellll.herokuapp.com/public/swf/gamedata/figuredata.xml',
+            'furnidata'         => 'http://pecohotellll.herokuapp.com/public/swf/gamedata/furnidata.xml/',
+            'productdata'       => 'http://pecohotellll.herokuapp.com/public/swf/gamedata/productdata.txt',
+            'variables'         => 'http://pecohotellll.herokuapp.com/public/swf/gamedata/external_variables.txt',
+            'texts'             => 'http://pecohotellll.herokuapp.com/public/swf/gamedata/external_flash_texts.txt',
+            'overrideVariables' => 'http://pecohotellll.herokuapp.com/public/swf/override/external_override_variables.txt',
+            'overrideTexts'     => 'http://pecohotellll.herokuapp.com/public/swf/gamedata/override/external_flash_override_texts.txt',
         ],
     ],
 
